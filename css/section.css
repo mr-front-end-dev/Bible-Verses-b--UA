@@ -14,3 +14,16 @@
 .section--bold{
   font-weight: bold;
 }
+
+.section__button {
+  background-color: hsl(0, 0%, 100%);
+  border-style: none;
+  font-size: 14px;
+  padding: 8px;
+  margin: 5px;
+}
+
+.section__button--link {
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+}
