@@ -2,16 +2,25 @@
   padding: 15px;
 }
 
-.section--h1 {
+.section__h1 {
   text-align: center;
 }
 
-.section--paragraph {
+.section__paragraph {
   font-size: 20px;
   padding: 5px;
 }
 
-.section--bold{
+.section__button--underscore {
+  color: hsl(0, 0%, 0%);
+  background-color: hsl(0, 0%, 100%);
+  border-style: none;
+  font-size: 14px;
+  padding: 8px;
+  margin: 5px;
+}
+
+.section--bold {
   font-weight: bold;
 }
 
